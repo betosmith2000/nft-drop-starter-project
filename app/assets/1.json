@@ -1,0 +1,19 @@
+{
+    "name": "Wish",
+    "symbol": "WSH",
+    "image": "1.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "888jTs4EQpFH3MkzDigyf1CfLNa8P58R6nG2ZNQ5wK1c",
+          "share": 100
+        }
+      ]
+    }
+  }

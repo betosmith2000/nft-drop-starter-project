@@ -1,0 +1,19 @@
+{
+    "name": "KissMeKissMeKissMe",
+    "symbol": "KSME",
+    "image": "0.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "888jTs4EQpFH3MkzDigyf1CfLNa8P58R6nG2ZNQ5wK1c",
+          "share": 100
+        }
+      ]
+    }
+  }

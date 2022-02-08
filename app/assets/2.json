@@ -1,0 +1,19 @@
+{
+    "name": "TheHeadOnTheDoor",
+    "symbol": "THOTD",
+    "image": "2.jpg",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "creators": [
+        {
+          "address": "888jTs4EQpFH3MkzDigyf1CfLNa8P58R6nG2ZNQ5wK1c",
+          "share": 100
+        }
+      ]
+    }
+  }
